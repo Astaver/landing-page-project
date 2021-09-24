@@ -1,0 +1,104 @@
+header {
+    background-color: #1F2937;
+    color: white;
+}
+
+nav {
+    margin: 0px;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0px;
+    gap: 10px;
+    color: #F9FAF8;
+}
+
+a {
+    color: #F9FAF8;
+}
+
+.header {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.push {
+    margin-right: auto;
+}
+
+.sec-three-container {
+    background-color: #E5E7EB;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.quote {
+    font-size: 36px;
+    display: flex;
+    font-style: italic;
+    color: #1F2937;
+    
+}
+
+.quote2 {
+    text-align: end;
+    display: flex;
+    font-weight: bold;
+    
+}
+
+.main-text {
+    font-size: 48px;
+    font-style: bold;
+    color: #F9FAF8;
+}
+
+.logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+#bottom {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 0px;
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-left {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    flex-wrap: wrap;
+    
+    
+    
+}
+
+.bottom-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.button-one {
+    background-color: #3882F6;
+    color: #F9FAF8
+}
+
+.button-two {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+
+.small-font {
+    font-size: 10px;
+    
+}
